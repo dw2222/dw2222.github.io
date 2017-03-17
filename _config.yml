@@ -4,12 +4,12 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://dw2222.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "test"
+  email: tesssswww@gmail.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: dw2222
+weibo_username: teseeee
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: ddd-yee
 
 # Build settings  
 # use Github Flavored Markdown !important  
